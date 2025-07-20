@@ -5,7 +5,7 @@ Designed to demonstrate GUI programming using ImGui + task persistence using fil
 
 ## 📸 Screenshot
 
-![screenshot](screenshots/Todo app.jpeg)
+![screenshot](Screenshots/Todo app.jpeg)
 ![Video](screenshots/Todo app - HD 1080p.mp4)
 
 ## 🎯 Features
@@ -29,10 +29,3 @@ GLFW
 
 OpenGL (macOS: enable forward-compatible)
 
-```bash
-git init
-git add .
-git commit -m "Initial commit: Todo GUI app with ImGui"
-git remote add origin https://github.com/USERNAME/todo-gui.git
-git push -u origin main
-```
