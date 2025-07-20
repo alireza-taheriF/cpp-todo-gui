@@ -5,8 +5,9 @@ Designed to demonstrate GUI programming using ImGui + task persistence using fil
 
 ## 📸 Screenshot
 
-![screenshot](Screenshots/Todo app.jpeg)
-![Video](screenshots/Todo app - HD 1080p.mp4)
+📷 ![screenshot]([Screenshots/Todo app.jpeg](https://github.com/alireza-taheriF/cpp-todo-gui/blob/main/Screenshots/Todo%20app.jpeg))
+📹 [Click to watch demo video](Screenshots/Todo%20app%20-%20HD%201080p.mp4)
+
 
 ## 🎯 Features
 
