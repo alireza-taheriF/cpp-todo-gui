@@ -5,7 +5,8 @@ Designed to demonstrate GUI programming using ImGui + task persistence using fil
 
 ## 📸 Screenshot
 
-![screenshot](screenshots/todo.png)
+![screenshot](screenshots/Todo app.jpeg)
+![Video](screenshots/Todo app - HD 1080p.mp4)
 
 ## 🎯 Features
 
